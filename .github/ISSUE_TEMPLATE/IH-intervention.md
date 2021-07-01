@@ -39,4 +39,4 @@ Yes/No
 
 🗳 When you are finished writing, head over to [TokenLog](https://tokenlog.xyz/TECommons/TokenLog-SoftGov) and vote for your favourite proposals! 
 
-📆 The primary voting session ends on Thursday, July 1st at 8pm CET.
+📆 The primary voting session ends on Friday, July 2nd at 8:30 pm CET.
