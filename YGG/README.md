@@ -14,7 +14,7 @@ Analysis of the Token Engineering Commons Impact Hour dataset.
 Earn up to 25 bonus impact hours by giving out up to 100 impact hours of praise!
 
 4. Hidden Work and Legacy Attribution - Decentralized Effort.  
-This is the rockstar approach. Set a date and time. I'm going for Jeff Emmet, Angela, and Will R.
+This is the rockstar approach. Set a date and time. I'm going for Jeff Emmet, Jessica Zartler, Angela, Will R, Sebnem, and Tamara.
 
 5. NFT Trophies
 Top Hatcher. @zeptimus  
